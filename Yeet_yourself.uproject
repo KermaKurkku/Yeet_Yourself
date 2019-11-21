@@ -1,6 +1,22 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{0004876C-08D7-69E4-0992-F4D28BEE6AE3}",
+	"EngineAssociation": "4.23",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "USharp",
+			"Enabled": false
+		},
+		{
+			"Name": "GraphFormatter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
+		}
+	]
 }
