@@ -217,110 +217,108 @@
 "../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 216
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 217
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 218
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 219
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 220
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 221
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 222
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 223
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 224
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 225
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 226
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 227
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 228
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 229
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 230
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 231
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 232
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 233
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 234
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 235
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 236
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 237
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 238
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 239
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 240
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 241
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 242
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 243
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 244
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 245
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 246
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 247
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Hub_BuiltData.uasset" 248
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 249
-"../../../Engine/Content/EngineMaterials/UnlitText.uasset" 250
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Materials/M_Glass.uasset" 251
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Textures/T_MacroVariation.uasset" 252
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 253
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 254
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Materials/M_Metal_Steel.uasset" 255
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_Blackmat.uasset" 256
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_brownmat.uasset" 257
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_Greymat.uasset" 258
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_whitemat.uasset" 259
-"../../../Engine/Content/BasicShapes/Cone.uasset" 260
-"../../../Engine/Content/BasicShapes/Cube.uasset" 261
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/Geometry/Meshes/1M_Cube.uasset" 262
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Materials/M_Basic_Wall.uasset" 263
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Cube.uasset" 264
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 265
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Trim.uasset" 266
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 267
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 268
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Hub.umap" 269
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-1_BuiltData.uasset" 270
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 271
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-1.umap" 272
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-2_BuiltData.uasset" 273
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_World1Mat.uasset" 274
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-2.umap" 275
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 276
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 277
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 278
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 279
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 280
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 281
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 282
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 283
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 284
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-3_BuiltData.uasset" 285
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Architecture/Pillar_50x500.uasset" 286
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Plane.uasset" 287
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-3.umap" 288
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-4_BuiltData.uasset" 289
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-4.umap" 290
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-5_BuiltData.uasset" 291
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-5.umap" 292
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-6_BuiltData.uasset" 293
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-6.umap" 294
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-7_BuiltData.uasset" 295
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-7.umap" 296
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-8_BuiltData.uasset" 297
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-8.umap" 298
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-9_BuiltData.uasset" 299
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 300
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-9.umap" 301
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-1_BuiltData.uasset" 302
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_World2.uasset" 303
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 304
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-1.umap" 305
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-2_BuiltData.uasset" 306
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-2.umap" 307
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-3_BuiltData.uasset" 308
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-3.umap" 309
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-4_BuiltData.uasset" 310
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-4.umap" 311
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-5_BuiltData.uasset" 312
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-5.umap" 313
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-6_BuiltData.uasset" 314
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-6.umap" 315
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-1_BuiltData.uasset" 316
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_World3.uasset" 317
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-1.umap" 318
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-2_BuiltData.uasset" 319
-"../../../Engine/Content/BasicShapes/Plane.uasset" 320
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-2.umap" 321
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/MainMenuScreen_BuiltData.uasset" 322
-"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/MainMenuScreen.umap" 323
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 324
-"../../../Engine/Content/Maps/Entry.umap" 325
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 219
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 220
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 221
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 222
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 223
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 224
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 225
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 226
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 227
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 228
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 229
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 230
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 231
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 232
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 233
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 234
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 235
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 239
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 240
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 241
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 242
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 243
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 244
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 245
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Hub_BuiltData.uasset" 246
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 247
+"../../../Engine/Content/EngineMaterials/UnlitText.uasset" 248
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Materials/M_Glass.uasset" 249
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Textures/T_MacroVariation.uasset" 250
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 251
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 252
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Materials/M_Metal_Steel.uasset" 253
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_Blackmat.uasset" 254
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_brownmat.uasset" 255
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_Greymat.uasset" 256
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_whitemat.uasset" 257
+"../../../Engine/Content/BasicShapes/Cone.uasset" 258
+"../../../Engine/Content/BasicShapes/Cube.uasset" 259
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/Geometry/Meshes/1M_Cube.uasset" 260
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Materials/M_Basic_Wall.uasset" 261
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Cube.uasset" 262
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 263
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Trim.uasset" 264
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 265
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 266
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Hub.umap" 267
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-1_BuiltData.uasset" 268
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 269
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-1.umap" 270
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-2_BuiltData.uasset" 271
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_World1Mat.uasset" 272
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-2.umap" 273
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 274
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 275
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 276
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 277
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 278
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 279
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 280
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 281
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 282
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-3_BuiltData.uasset" 283
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Architecture/Pillar_50x500.uasset" 284
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/StarterContent/Shapes/Shape_Plane.uasset" 285
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-3.umap" 286
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-4_BuiltData.uasset" 287
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-4.umap" 288
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-5_BuiltData.uasset" 289
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-5.umap" 290
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-6_BuiltData.uasset" 291
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-6.umap" 292
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-7_BuiltData.uasset" 293
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-7.umap" 294
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-8_BuiltData.uasset" 295
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-8.umap" 296
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-9_BuiltData.uasset" 297
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 298
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level1-9.umap" 299
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-1_BuiltData.uasset" 300
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_World2.uasset" 301
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 302
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-1.umap" 303
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-2_BuiltData.uasset" 304
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-2.umap" 305
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-3_BuiltData.uasset" 306
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-3.umap" 307
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-4_BuiltData.uasset" 308
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-4.umap" 309
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-5_BuiltData.uasset" 310
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-5.umap" 311
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-6_BuiltData.uasset" 312
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level2-6.umap" 313
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-1_BuiltData.uasset" 314
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Material/M_World3.uasset" 315
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-1.umap" 316
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-2_BuiltData.uasset" 317
+"../../../Engine/Content/BasicShapes/Plane.uasset" 318
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/Level3-2.umap" 319
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/MainMenuScreen_BuiltData.uasset" 320
+"../../../../../../Users/iikka/OneDrive/Asiakirjat/Unreal Projects/Yeet_Yourself/Content/YeetYourself/Maps/MainMenuScreen.umap" 321
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 322
+"../../../Engine/Content/Maps/Entry.umap" 323
